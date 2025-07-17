@@ -8,7 +8,7 @@ Hi there! I'm a logistics and supply chain specialist with a strong interest in 
 
 - 📦 **Logistics & Supply Chain**  
 - 📊 Passionate about **Data Analytics**, **Statistics**, and **Automation**  
-- 💻 Tools I work with:
+- 💻 I use the tools i'am good at, and work on improving the ones i'm not:
   - Excel / Power Query  
   - Power BI / Tableau  
   - SQL / MS Access  
@@ -18,7 +18,7 @@ I love learning and i am a person who believes in the power of **sharing knowled
 
 ---
 
-## 📂 What You'll Find Here
+## 📂 What can we share Here?
 
 This GitHub profile includes:
 - 📈 Data analysis projects
