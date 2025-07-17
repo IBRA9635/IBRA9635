@@ -14,7 +14,7 @@ Hi there! I'm a logistics and supply chain specialist with a strong interest in 
   - SQL / MS Access  
   - Python for Machine Learning and Data Science  
 
-I love learning and i am athlete who believes in the power of **sharing knowledge** and growing together with the community.
+I love learning and i am a person who believes in the power of **sharing knowledge** and growing together with the community.
 
 ---
 
