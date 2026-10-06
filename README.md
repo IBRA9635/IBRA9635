@@ -1,25 +1,24 @@
-# 👋 Hallo and welcome 
+# Hallo, ich bin Ibra 👋
 
-Curious mind with a passion for people, data analytics, machine learning, and automation. 📦Specialist in warehouse operations and supply chain optimization. I love learning and i am a person who believes in the power of **sharing knowledge** and growing together with the community.
+Logistiker EFZ mit Praxis in Retouren und Leergebinden.
+Ich verbinde Lagerwissen mit Datenanalyse, um Prozesse messbar zu verbessern.
 
-## 🧠 About Me
-💻 I use the tools i'am good at, and work on improving the ones i'm not:
-📊
-Excel / Power Query
-Power BI / Tableau
-SQL / MS Access
-Python for Data Analyst, Machine Learning and Data Science
+## Schwerpunkte
+- Lager- und Retourenprozesse
+- Datenanalyse mit Excel / Power Query, SQL und Power BI
+- Python (Pandas) für Auswertungen und Automatisierung
 
----
+## Projekte
+- [Retouren-Analyse](link): Ursachen und Quoten sichtbar machen
+- [Leergebinde-Dashboard](link): Bestände auf einen Blick
+- [Lager-KPIs mit SQL](link): Umschlag und ABC-Analyse
 
-## 📂 What could be share Here?
+*Alle Projekte nutzen anonymisierte Beispieldaten.*
 
-This GitHub profile includes:
-- 📈 Data analysis projects
-- 🛠️ Supply chain automation tools
-- 🤖 Machine learning models for business use cases
-- 📚 Educational content and tutorials
+## Aktuell am Lernen
+Sachbearbeiter Logistik · Power BI · Python für Data Analysis
 
----
-
-Thanks for visiting, and have a nice day! 🌟
+## Kontakt
+[LinkedIn](www.linkedin.com/in/
+ibrahim-hassan-logistik)
+) · Zürich, Schweiz
